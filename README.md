@@ -50,7 +50,7 @@ Run the script from command line/terminal using below steps.
 
 - Open command line/terminal and navigate to Python project folder.
 
-- Run the below fto execute Windows web ExpenseTrackerChrome.py:
+- Run the below command execute Windows web ExpenseTrackerChrome.py:
 
     Mac:
 
@@ -60,7 +60,7 @@ Run the script from command line/terminal using below steps.
 
         python WindowsWeb/ExpenseTrackerChrome.py
 
-- Run the below fto execute Mac web ExpenseTrackerSafari.py:
+- Run the below command execute Mac web ExpenseTrackerSafari.py:
 
     Mac:
 
