@@ -8,10 +8,10 @@ from perfecto import model
 from selenium.webdriver.support.wait import WebDriverWait
 
 # 1. Replace "<Cloud Name>" with your cloud name (e.g, trial is the cloudName of trial.app.perfectomobile.com)
-# cloudName = "<Cloud Name>"
+cloudName = "<Cloud Name>"
 
 capabilities = {
-    #  2. Replace <<security token>> with your perfecto security token.
+    #  2. Replace <security token> with your perfecto security token.
     'securityToken': "<security token>",
 
     # 3. Set device capabilities.

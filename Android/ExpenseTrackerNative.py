@@ -11,7 +11,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 cloudName = "<Cloud Name>"
 
 capabilities = {
-    #  2. Replace <<security token>> with your perfecto security token.
+    #  2. Replace <security token> with your perfecto security token.
     'securityToken': "<security token>",
 
     # 3. Set device capabilities.
